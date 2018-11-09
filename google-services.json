@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "907613967967",
+    "firebase_url": "https://promocoesjti.firebaseio.com",
+    "project_id": "promocoesjti",
+    "storage_bucket": "promocoesjti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907613967967:android:957813dfb0b1649e",
+        "android_client_info": {
+          "package_name": "ricardo.com.br.promocoesjatai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907613967967-vk32sc7j9fg55hlfu542cqjdlhe0vf8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ricardo.com.br.promocoesjatai",
+            "certificate_hash": "905256da72d618770e39240f2b7360c9f4ba1bcd"
+          }
+        },
+        {
+          "client_id": "907613967967-ohj5rcr8f005qnn58ttiqim55eblloae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmseGBykl3OgPb4t2-4OlIcxR4MJL3c58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907613967967-ohj5rcr8f005qnn58ttiqim55eblloae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
